@@ -1,0 +1,14 @@
+@import url('https://fonts.google.com/share?selection.family=Playfair+Display:ital,wght@1,500|Roboto:wght@100;400;500');
+.founder_nume{
+    margin-top: 20px;
+    font-family: 'Playfair Display', serif;
+    font-size:40px;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.founder_history{
+    font-family: 'Playfair Display', serif;
+    font-size:20px;
+
+}
